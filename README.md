@@ -1,4 +1,5 @@
 # Currency Converter Mobile App
+![CurrencyConverterApp](https://github.com/user-attachments/assets/83aa86e5-c895-4ff2-ac35-d0b361b75ccf)
 
 
 
@@ -26,8 +27,8 @@ The app is structured in the following way:
 3. But I encountered a problem about get flags, because some curriences don't have specific flag follow country ( ex: EUR )
 4. So I could get these flags, I decided to show empty images of that cases.
 
-## Link Mobile App Project
-_https://github.com/ChauHoangTan/CurrencyConverterApp_
+## Link Challenge 1: Mobile App Project
+**_https://github.com/ChauHoangTan/CurrencyConverterApp_**
 
 ## Link Demo
-** **
+**https://youtu.be/KwOau1lxmvU**
